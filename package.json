@@ -1,0 +1,19 @@
+{
+  "name": "brain_games_hexlet",
+  "version": "1.0.0",
+  "description": "brain game",
+  "main": "brain-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankmk/frontend-project-lvl1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivankmk/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/ivankmk/frontend-project-lvl1#readme"
+}
